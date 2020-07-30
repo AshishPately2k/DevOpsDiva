@@ -1,5 +1,5 @@
 variables:
-- group: dev_us-west-2
+- group: 'dev_us-west-2'
 steps:
 
 - script: |
